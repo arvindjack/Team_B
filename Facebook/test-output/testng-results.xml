@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="9" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-29T10:17:46 IST" name="Suite" finished-at="2022-03-29T10:18:50 IST" duration-ms="63583">
+    <groups>
+    </groups>
+    <test started-at="2022-03-29T10:17:46 IST" name="Test" finished-at="2022-03-29T10:18:50 IST" duration-ms="63583">
+      <class name="TestNG.NewTest1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNG.NewTest1@3012646b]" started-at="2022-03-29T10:17:46 IST" name="setup" finished-at="2022-03-29T10:18:06 IST" duration-ms="19546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:1, instance:TestNG.NewTest1@3012646b]" started-at="2022-03-29T10:18:06 IST" name="test" finished-at="2022-03-29T10:18:09 IST" duration-ms="3303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="Closing()[pri:0, instance:TestNG.NewTest1@3012646b]" started-at="2022-03-29T10:18:09 IST" name="Closing" finished-at="2022-03-29T10:18:11 IST" duration-ms="2152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closing -->
+      </class> <!-- TestNG.NewTest1 -->
+      <class name="TestNG.NewTest2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:11 IST" name="setup" finished-at="2022-03-29T10:18:19 IST" duration-ms="7949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnBookslinkTest()[pri:0, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:19 IST" name="clickOnBookslinkTest" finished-at="2022-03-29T10:18:20 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBookslinkTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:20 IST" name="close" finished-at="2022-03-29T10:18:23 IST" duration-ms="3398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:23 IST" name="setup" finished-at="2022-03-29T10:18:32 IST" duration-ms="8906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getlink()[pri:0, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:32 IST" name="getlink" finished-at="2022-03-29T10:18:32 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlink -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:32 IST" name="close" finished-at="2022-03-29T10:18:36 IST" duration-ms="3401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:36 IST" name="setup" finished-at="2022-03-29T10:18:43 IST" duration-ms="7158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerinapp()[pri:1, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:43 IST" name="registerinapp" finished-at="2022-03-29T10:18:46 IST" duration-ms="3041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerinapp -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestNG.NewTest2@1530c739]" started-at="2022-03-29T10:18:46 IST" name="close" finished-at="2022-03-29T10:18:50 IST" duration-ms="3841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.NewTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
